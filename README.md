@@ -9,7 +9,7 @@ This project is a modern, responsive personal homepage built entirely with vanil
 The objective was to create a professional portfolio website that demonstrates mastery of front-end web technologies without relying on frameworks or libraries.
 
 **Screenshot:**
-![Screenshot of Personal Homepage](assets/screenshot.png)
+![Screenshot of Personal Homepage](screenshot.png)
 
 **Key Features**
 Responsive Design: Mobile-first approach using CSS Grid and Flexbox
