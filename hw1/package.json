@@ -1,0 +1,26 @@
+{
+  "name": "personal-homepage",
+  "version": "1.0.0",
+  "description": "A modern personal homepage built with vanilla HTML5, CSS3, and ES6+",
+  "type": "module",
+  "scripts": {
+    "dev": "live-server .",
+    "build": "echo 'No build process needed for static site'",
+    "lint": "eslint js/",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "live-server": "^1.2.2",
+    "prettier": "^2.8.0"
+  },
+  "author": "Alex Johnson",
+  "license": "MIT",
+  "keywords": [
+    "portfolio",
+    "homepage",
+    "vanilla-js",
+    "css3",
+    "html5"
+  ]
+}
